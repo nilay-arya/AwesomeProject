@@ -1,5 +1,5 @@
 {
-  "name": "AwesomeProject",
+  "name": "drake-test",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -25,5 +25,20 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "simple native app",
+  "main": "Haptik.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilay-arya/AwesomeProject.git"
+  },
+  "keywords": [
+    "drake"
+  ],
+  "author": "Nilay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilay-arya/AwesomeProject/issues"
+  },
+  "homepage": "https://github.com/nilay-arya/AwesomeProject#readme"
 }
